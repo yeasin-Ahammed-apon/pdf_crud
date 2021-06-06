@@ -28,6 +28,8 @@ _______________________________________________________________________
 	    - if new pdf given then delete the previous pdf file and update the name
     - delete a pdf
         - remove pdf from public directory and data base
+    - download a pdf
+        - download pdf file
 - validate
     - required | unique:pdf,name,id,id_column	    
     - required | mmies: pdf	    
